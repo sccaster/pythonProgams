@@ -1,0 +1,205 @@
+Playing 5 games.
+
+=========== Begin Game 1 ==========
+
+The shuffled deck:
+
+ 10-H 6-C 3-D 3-H 8-H K-H 9-H 7-H A-S 2-H 5-C 4-S A-H
+ 10-S Q-S 4-H 3-S Q-D 2-D 8-C 4-D 5-D K-D A-D 7-C 10-D
+ J-H K-S 10-C 9-D 5-H 2-C Q-C 6-D Q-H 6-S 8-S 7-D K-C
+ J-D 9-C 4-C 3-C 7-S 8-D J-C 6-H 5-S 9-S J-S 2-S A-C
+
+The piles:
+
+A-C A-D A-H A-S 3-D 6-C 10-H 
+2-C 2-D 2-H 3-H 
+2-S 3-C 3-S 4-H 4-S 5-C 7-H 8-H 
+4-C 4-D 8-C 9-H K-H 
+5-D 10-S 
+5-H 7-C Q-D Q-S 
+5-S 6-D 9-D 10-C 10-D K-D 
+6-H 6-S J-H 
+7-D 8-S Q-C K-S 
+7-S 9-C J-D Q-H 
+8-D K-C 
+9-S J-C 
+J-S 
+
+Longest Decreasing Sub-Sequences: 
+
+J-S 9-S 8-D 7-S 7-D 6-S 6-D 5-H 5-D 4-D 3-S 2-H A-S 
+
+Longest Increasing Sub-Sequences: 
+
+A-S 2-H 3-S 4-D 5-D 5-H 6-D 6-S 7-D 7-S 8-D 9-S J-S 
+
+The sorted deck:
+ A-C A-D A-H A-S 2-C 2-D 2-H 2-S 3-C 3-D 3-H 3-S 4-C
+ 4-D 4-H 4-S 5-C 5-D 5-H 5-S 6-C 6-D 6-H 6-S 7-C 7-D
+ 7-H 7-S 8-C 8-D 8-H 8-S 9-C 9-D 9-H 9-S 10-C 10-D 10-H
+ 10-S J-C J-D J-H J-S Q-C Q-D Q-H Q-S K-C K-D K-H K-S
+
+=========== End Game 1 ==========
+Simulation complete.
+
+=========== Begin Game 2 ==========
+
+The shuffled deck:
+
+ 10-C Q-D J-C 5-S K-H J-S K-D 2-C 2-S A-H J-H 7-H 7-C
+ 4-C A-C 3-S J-D 10-H 4-D 10-S 6-C 5-H 9-S 10-D Q-H 3-C
+ 3-D K-S 2-D 8-S 4-S 8-H Q-S Q-C 9-H 7-S 9-D 2-H 9-C
+ 6-S A-D 6-H 4-H 5-C 8-D 3-H A-S 7-D 6-D K-C 8-C 5-D
+
+The piles:
+
+A-C A-H 2-C 5-S 10-C 
+A-D 2-D 2-S J-C Q-D 
+A-S 2-H 3-C 3-S 4-C 7-C 7-H J-H J-S K-H 
+3-D 4-D 10-H J-D K-D 
+3-H 4-H 4-S 5-H 6-C 10-S 
+5-C 6-H 6-S 7-S 8-H 8-S 9-S 
+5-D 6-D 7-D 8-D 9-C 9-D 9-H 10-D 
+8-C Q-C Q-H 
+Q-S K-S 
+K-C 
+
+Longest Decreasing Sub-Sequences: 
+
+K-C Q-S Q-H 10-D 9-S 5-H 4-D 3-S 2-S 2-C 
+
+Longest Increasing Sub-Sequences: 
+
+2-C 2-S 3-S 4-D 5-H 9-S 10-D Q-H Q-S K-C 
+
+The sorted deck:
+ A-C A-D A-H A-S 2-C 2-D 2-H 2-S 3-C 3-D 3-H 3-S 4-C
+ 4-D 4-H 4-S 5-C 5-D 5-H 5-S 6-C 6-D 6-H 6-S 7-C 7-D
+ 7-H 7-S 8-C 8-D 8-H 8-S 9-C 9-D 9-H 9-S 10-C 10-D 10-H
+ 10-S J-C J-D J-H J-S Q-C Q-D Q-H Q-S K-C K-D K-H K-S
+
+=========== End Game 2 ==========
+Simulation complete.
+
+=========== Begin Game 3 ==========
+
+The shuffled deck:
+
+ 5-H 2-D 6-S Q-C 9-H 2-C 9-S A-C A-D 2-H A-H 9-D 9-C
+ Q-D J-H 6-D Q-H 4-H 10-D 7-S 10-H K-D 5-C 7-C J-D 5-S
+ J-S 4-C 8-D 7-H 4-S Q-S 5-D 8-H 3-H K-H 3-D A-S 2-S
+ 3-S 7-D J-C 6-H 6-C 3-C K-C 10-S 4-D 8-C 10-C 8-S K-S
+
+The piles:
+
+A-C 2-C 2-D 5-H 
+A-D 6-S 
+A-H 2-H 9-H Q-C 
+A-S 3-D 3-H 4-C 4-H 6-D 9-C 9-D 9-S 
+2-S 4-S 5-C 7-S 10-D J-H Q-D 
+3-C 3-S 5-D 5-S 7-C 10-H Q-H 
+4-D 6-C 6-H 7-D 7-H 8-D J-D K-D 
+8-C 8-H J-S 
+8-S 10-C 10-S J-C Q-S 
+K-C K-H 
+K-S 
+
+Longest Decreasing Sub-Sequences: 
+
+K-S K-C J-C 8-H 7-H 5-S 5-C 4-H A-H A-D A-C 
+
+Longest Increasing Sub-Sequences: 
+
+A-C A-D A-H 4-H 5-C 5-S 7-H 8-H J-C K-C K-S 
+
+The sorted deck:
+ A-C A-D A-H A-S 2-C 2-D 2-H 2-S 3-C 3-D 3-H 3-S 4-C
+ 4-D 4-H 4-S 5-C 5-D 5-H 5-S 6-C 6-D 6-H 6-S 7-C 7-D
+ 7-H 7-S 8-C 8-D 8-H 8-S 9-C 9-D 9-H 9-S 10-C 10-D 10-H
+ 10-S J-C J-D J-H J-S Q-C Q-D Q-H Q-S K-C K-D K-H K-S
+
+=========== End Game 3 ==========
+Simulation complete.
+
+=========== Begin Game 4 ==========
+
+The shuffled deck:
+
+ 4-D J-H 4-S 10-D 8-D A-S 2-D 3-C 7-S 3-S A-C 7-C 9-C
+ 7-D J-D J-C Q-H Q-S 9-S 3-H 5-H Q-C A-D K-S 5-C 9-D
+ 6-H 8-C 6-D K-C K-H 2-C 5-S 3-D Q-D 7-H 6-C 9-H J-S
+ K-D 8-H 10-S 8-S 2-S 10-H 2-H 4-H A-H 4-C 6-S 10-C 5-D
+
+The piles:
+
+A-C A-S 4-D 
+A-D 2-D 4-S J-H 
+A-H 2-C 3-C 8-D 10-D 
+2-H 2-S 3-D 3-H 3-S 7-S 
+4-C 4-H 5-C 5-H 7-C 
+5-D 5-S 6-D 6-H 7-D 9-C 
+6-C 7-H 8-C 9-D 9-S J-C J-D 
+6-S 8-H 9-H Q-C Q-H 
+8-S 10-S J-S Q-D Q-S 
+10-C 10-H K-C K-S 
+K-D K-H 
+
+Longest Decreasing Sub-Sequences: 
+
+K-H K-C Q-S Q-H J-C 7-D 7-C 3-S 3-C 2-D A-S 
+K-D K-C Q-S Q-H J-C 7-D 7-C 3-S 3-C 2-D A-S 
+
+Longest Increasing Sub-Sequences: 
+
+A-S 2-D 3-C 3-S 7-C 7-D J-C Q-H Q-S K-C K-H 
+A-S 2-D 3-C 3-S 7-C 7-D J-C Q-H Q-S K-C K-D 
+
+The sorted deck:
+ A-C A-D A-H A-S 2-C 2-D 2-H 2-S 3-C 3-D 3-H 3-S 4-C
+ 4-D 4-H 4-S 5-C 5-D 5-H 5-S 6-C 6-D 6-H 6-S 7-C 7-D
+ 7-H 7-S 8-C 8-D 8-H 8-S 9-C 9-D 9-H 9-S 10-C 10-D 10-H
+ 10-S J-C J-D J-H J-S Q-C Q-D Q-H Q-S K-C K-D K-H K-S
+
+=========== End Game 4 ==========
+Simulation complete.
+
+=========== Begin Game 5 ==========
+
+The shuffled deck:
+
+ 3-C 8-H 2-S 6-D A-C 5-C 2-H 9-S 8-S J-S K-S 9-D 3-S
+ 10-D 6-C A-H 3-H 7-D 5-H 6-H 7-C 10-C K-D Q-H 8-C J-D
+ 7-H 10-S 9-H 2-C 5-S 10-H 9-C K-C 8-D J-C 4-S 4-H K-H
+ 4-D 3-D 2-D A-S Q-S 7-S 4-C 5-D Q-C Q-D 6-S J-H A-D
+
+The piles:
+
+A-C 2-S 3-C 
+A-D A-H 2-H 5-C 6-D 8-H 
+A-S 2-C 3-H 3-S 8-S 9-S 
+2-D 3-D 4-D 4-H 4-S 5-H 6-C 9-D J-S 
+4-C 5-S 6-H 7-D 10-D K-S 
+5-D 7-C 
+6-S 7-H 8-C 10-C 
+7-S 8-D 9-C 9-H 10-S J-D Q-H K-D 
+10-H 
+J-C K-C 
+J-H Q-C Q-S K-H 
+Q-D 
+
+Longest Decreasing Sub-Sequences: 
+
+Q-D Q-C J-C 10-H 9-H 7-H 7-C 6-H 5-H 3-H A-H A-C 
+
+Longest Increasing Sub-Sequences: 
+
+A-C A-H 3-H 5-H 6-H 7-C 7-H 9-H 10-H J-C Q-C Q-D 
+
+The sorted deck:
+ A-C A-D A-H A-S 2-C 2-D 2-H 2-S 3-C 3-D 3-H 3-S 4-C
+ 4-D 4-H 4-S 5-C 5-D 5-H 5-S 6-C 6-D 6-H 6-S 7-C 7-D
+ 7-H 7-S 8-C 8-D 8-H 8-S 9-C 9-D 9-H 9-S 10-C 10-D 10-H
+ 10-S J-C J-D J-H J-S Q-C Q-D Q-H Q-S K-C K-D K-H K-S
+
+=========== End Game 5 ==========
+Simulation complete.
